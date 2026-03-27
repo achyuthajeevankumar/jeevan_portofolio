@@ -167,8 +167,8 @@ export default function FullWidthTabs() {
 
       const certificateData = certificateSnapshot.docs.map((doc) => doc.data());
 
-      // Combine Firebase certificates with local certificates
-      const combinedCertificates = [...localCertificates, ...certificateData];
+      // Combine Firebase certificates with local certificates and limit to 5
+      const combinedCertificates = [...localCertificates, ...certificateData].slice(0, 5);
 
       setProjects(projectData);
       setCertificates(combinedCertificates);

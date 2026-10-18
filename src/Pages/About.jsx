@@ -172,7 +172,7 @@ I bring strong analytical thinking, problem-solving skills, and a data-driven mi
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-sm" data-aos="fade-up" data-aos-duration="1000">
               <div className="bg-white/5 border border-white/10 rounded-xl p-3 text-center">
                 <p className="text-purple-400 font-semibold text-xs uppercase tracking-wider mb-1">🎓 Studying</p>
-                <p className="text-gray-300 text-xs">MCA 2nd Year — 2026</p>
+                <p className="text-gray-300 text-xs">MCA completed — 2026</p>
                 <p className="text-gray-500 text-xs">Swarnandhra CET, Narsapuram</p>
               </div>
               <div className="bg-white/5 border border-white/10 rounded-xl p-3 text-center">

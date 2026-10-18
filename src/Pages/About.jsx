@@ -161,7 +161,11 @@ const AboutPage = () => {
             </h2>
 
             <p className="text-base sm:text-lg lg:text-xl text-gray-400 leading-relaxed text-justify pb-4 sm:pb-0" data-aos="fade-right" data-aos-duration="1500">
-              I'm an MCA student at Swarnandhra College of Engineering and Technology, Narsapuram — graduating in 2026. My foundation started with a BSc in Mathematics, Physics & Computer Science. I am deeply passionate about AI/ML systems and Python development. I've built an AI-based cloud load distribution system and researched deep learning approaches for egg crack detection using CNN, ResNet, and Xception models. I bring strong critical thinking, a data-driven mindset, and project ownership. Actively seeking internships or entry-level roles to grow alongside experienced AI and software engineering teams.
+              I am an MCA graduate from Swarnandhra College of Engineering and Technology, Narsapuram, with a strong academic foundation in Mathematics, Physics, and Computer Science through my B.Sc. degree.
+
+I am passionate about Artificial Intelligence, Machine Learning, and Python development. I have developed an AI-powered cloud load distribution system and explored deep learning approaches for egg crack detection using CNN, ResNet, and Xception models.
+
+I bring strong analytical thinking, problem-solving skills, and a data-driven mindset to my work. I am actively seeking entry-level opportunities in AI/ML and Software Development where I can apply my technical knowledge, contribute to real-world projects, and continue growing as an engineer.
             </p>
 
             {/* Info Cards */}
